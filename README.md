@@ -1,4 +1,3 @@
-﻿Kurzinfo
 Dieses Projekt erstellt .intunewin-Pakete ueber einen GUI-Wizard (WPF).
 Git ist optional; falls nicht vorhanden, wird per ZIP von GitHub geladen.
 
